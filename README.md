@@ -1,7 +1,7 @@
 
 <p align="center">
   <!-- <a href="https://delphix.com/"> -->
-    <img width="800" src="https://github.com/raajheshk/raajheshk/blob/master/images/rk-banner.png?raw=true" alt="logo" />
+    <img width="800" src="https://github.com/raajheshk/raajheshk/blob/main/images/rk-banner.png?raw=true" alt="logo" />
   </a>
 </p>
 
